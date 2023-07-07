@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danushka Niroshan</h1>
+<h1 align="center" width"10">Hi 👋, I'm Danushka Niroshan</h1>
 <h3 align="center">| Electrical & Electronic Technology Undergraduate | Faculty of Technology, Rajarata University of Sri Lanka |</h3>
 <img align="right" alt="coding" width"400" src="https://novelpatterns.com/np/wp-content/uploads/2018/08/old-machine-learning-animation3.gif?x39657">
 
